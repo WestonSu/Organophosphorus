@@ -6,7 +6,7 @@
 </p>
 This repository provides a rational workflow for the identification and prioritization of pollutants in environmental samples by the combination of nontarget screening and MCDA prioritization approach.
 
-![Model graphic](Model_graphic.png)
+![Graphical_Abstract](Graphical_Abstract.png)
 
 ---
 
