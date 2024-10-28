@@ -42,7 +42,7 @@ This script calculates the structural similarity between compounds using the **T
 ### Python Packages:
 - `pandas`
 - `numpy`
-- `scikit-learn` (for the Tanimoto similarity calculation)
+- `scikit-learn`
 
 ### R Packages:
 - `patRoon`
