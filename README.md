@@ -6,8 +6,6 @@
 </p>
 This repository provides a rational workflow for the identification and prioritization of pollutants in environmental samples by the combination of nontarget screening and MCDA prioritization approach.
 
-![Graphical_Abstract](Graphical_Abstract.png)
-
 ---
 
 ## Overview
@@ -44,7 +42,7 @@ This script calculates the structural similarity between compounds using the **T
 ### Python Packages:
 - `pandas`
 - `numpy`
-- `scikit-learn` (for the Tanimoto similarity calculation)
+- `scikit-learn`
 
 ### R Packages:
 - `patRoon`
