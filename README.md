@@ -9,7 +9,7 @@ This repository provides a rational workflow for the identification and prioriti
 <br>
 <br>
 <p align="center">
-  <img src="TOC.png" alt="TOC" width="600"/>
+  <img src="Graphical_Abstract.png" alt="Graphical_Abstract" width="600"/>
 </p>
 
 ---
