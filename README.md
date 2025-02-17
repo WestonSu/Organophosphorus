@@ -1,5 +1,6 @@
 # Identification and Prioritization of Emerging Organophosphorus Compounds Beyond Organophosphate Esters in Chinese Estuarine Waters (Unpublished paper)
 <p align="left">
+[![DOI](https://img.shields.io/badge/DOI-10.1021%2Facs.est.4c09869-blue)](https://doi.org/10.1021/acs.est.4c09869)
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style&logo=Python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/RStudio-75AADB.svg?style&logo=RStudio&logoColor=white" alt="RStudio" />
 <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
