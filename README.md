@@ -56,11 +56,11 @@ This script calculates the structural similarity between compounds using the **T
 ## Citations 
 We ask users to directly cite the following paper:
 
-Su, W. et al. Identification and Prioritization of Emerging Organophosphorus Compounds Beyond Organophosphate Esters in Chinese Estuarine Waters. 
+Su, W. et al. Identification and Prioritization of Emerging Organophosphorus Compounds Beyond Organophosphate Esters in Chinese Estuarine Waters. Environ. Sci. Technol. 2025, DOI: 10.1021/acs.est.4c02380
 
 This project also builds on a number of other projects, algorithms and ideas. Please consider citing the following full list of papers when relevant: 
 
-1. Su, W.; Li, P.; Zhong, L.; Liang, W.; Li, T.; Liu, J.; Ruan, T.; Jiang, G. Occurrence and distribution of antibacterial quaternary ammonium compounds in Chinese estuaries revealed by machine learning-assisted mass spectrometric analysis. Environ. Sci. Technol. 2024. 58 (26), 11707−11717. DOI: 10.1021/acs.est.4c02380
+1. Su, W.; Li, P.; Zhong, L.; Liang, W.; Li, T.; Liu, J.; Ruan, T.; Jiang, G. Occurrence and distribution of antibacterial quaternary ammonium compounds in Chinese estuaries revealed by machine learning-assisted mass spectrometric analysis. Environ. Sci. Technol. 2024. 58 (26), 11707−11717. DOI: 10.1021/acs.est.4c09869
 2. Helmus, R.; ter Laak, T. L.; van Wezel, A. P.; de Voogt, P.; Schymanski, E. L. patRoon: open source software platform for environmental mass spectrometry based non-target screening. J. Cheminform. 2021, 13 (1), 1. DOI: 10.1186/s13321-020-00477-w
 3. Ruttkies, C.; Schymanski, E. L.; Wolf, S.; Hollender, J.; Neumann, S. MetFrag relaunched: incorporating strategies beyond in silico fragmentation. J. Cheminform 2016, 8 (1), 3. DOI: 10.1186/S13321-016-0115-9
 4. Dührkop, K.; Fleischauer, M.; Ludwig, M.; Aksenov, A. A.; Melnik, A. V.; Meusel, M.; Dorrestein, P. C.; Rousu, J.; Böcker, S. SIRIUS 4: a rapid tool for turning tandem mass spectra into metabolite structure information. Nat. Methods 2019, 16 (4), 299−302. DOI: 10.1038/s41592-019-0344-8
