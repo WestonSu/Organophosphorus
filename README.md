@@ -56,7 +56,7 @@ This script calculates the structural similarity between compounds using the **T
 ## Citations 
 We ask users to directly cite the following paper:
 
-Su, W. et al. Identification and Prioritization of Emerging Organophosphorus Compounds Beyond Organophosphate Esters in Chinese Estuarine Waters. Environ. Sci. Technol. 2025, DOI: 10.1021/acs.est.4c02380
+Su, W. et al. Identification and Prioritization of Emerging Organophosphorus Compounds Beyond Organophosphate Esters in Chinese Estuarine Waters. Environ. Sci. Technol. 2025, 59, 8, 4080–4091. DOI: 10.1021/acs.est.4c02380
 
 This project also builds on a number of other projects, algorithms and ideas. Please consider citing the following full list of papers when relevant: 
 
